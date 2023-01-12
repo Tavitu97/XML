@@ -1,0 +1,10 @@
+{
+    "$schema": "electricity.schema.json",
+    "electricity": [
+      {
+        "id": 1,
+        "country": "Aruba",
+        "percentage": 100
+      }
+    ]
+  }
