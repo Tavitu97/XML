@@ -1,0 +1,10 @@
+{
+  "$schema": "happiness.schema.json",
+  "electricity": [
+    {
+      "rank": 1,
+      "country": "Finland",
+      "score": 7.769
+    }
+  ]
+}

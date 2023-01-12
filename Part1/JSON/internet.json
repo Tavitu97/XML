@@ -1,0 +1,12 @@
+{
+    "$schema": "internet.schema.json",
+    "electricity": [
+      {
+        "country": "China",
+        "internet_users": 765367947,
+        "population": 1409517397,
+        "percentage": 54.3
+  
+      }
+    ]
+  }
