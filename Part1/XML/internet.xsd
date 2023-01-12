@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+                   attributeFormDefault="unqualified">
+
+    <xs:element name="InternetUsers">
+        <xs:complexType>
+                <xs:sequence>
+                        <xs:element name="InternetUsersPerCountry" type="InternetUsersDetails" minOccurs="0" maxOccurs="unbounded" />
+                    </xs:sequence>
+            </xs:complexType>
+    </xs:element>
+            <xs:complexType name="InternetUsersDetails">
+        <xs:sequence>
+                <xs:element name="country" type="xs:string" maxOccurs="1"/>
+                <xs:element name="internet_users" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="population" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="percentage" type="xs:float" maxOccurs="1"/>
+            </xs:sequence>
+    </xs:complexType>
+</xs:schema>

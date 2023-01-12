@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InternetUsers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="internet.xsd">
+    <InternetUsersPerCountry>
+        <country>China</country>
+        <internet_users>765367947</internet_users>
+        <population>1409517397</population>
+        <percentage>54.30</percentage>
+    </InternetUsersPerCountry>
+</InternetUsers>
