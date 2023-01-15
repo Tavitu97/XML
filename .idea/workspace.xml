@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="758dd867-b536-482f-b6ad-c101a6c2a8ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/electricity.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/electricity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/happiness.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/happiness.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/internet.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/internet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1Schema/JSON/electricity.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/part1Schema/JSON/electricity.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1Schema/JSON/happiness.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/part1Schema/JSON/happiness.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1Schema/JSON/internet.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/part1Schema/JSON/internet.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3Visualisation/visualisation_JSON.html" beforeDir="false" afterPath="$PROJECT_DIR$/part3Visualisation/visualisation_JSON.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3Visualisation/visualisation_XML.html" beforeDir="false" afterPath="$PROJECT_DIR$/part3Visualisation/visualisation_XML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/electricity.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/electricity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/happiness.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/happiness.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/internet.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/internet.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataProcessing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26i4e6jJHaevWD66kIJaCbXQ0sR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\database" />
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\part1Schema\JSON" />
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\part1Schema" />
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\schemaForValidation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment" />
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\part1Schema\XML" />
+      <recent name="C:\Users\Alex\Documents\GitHub\DataProcessingAssignment\part1Schema" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="758dd867-b536-482f-b6ad-c101a6c2a8ba" name="Default Changelist" comment="" />
+      <created>1647893164089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647893164089</updated>
+      <workItem from="1647893165414" duration="11210000" />
+      <workItem from="1647909802989" duration="1068000" />
+      <workItem from="1647953696321" duration="29516000" />
+      <workItem from="1648038700280" duration="30964000" />
+      <workItem from="1648129815324" duration="1374000" />
+      <workItem from="1648202643375" duration="3110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647897640708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1647897640708" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1647983223187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1647983223187" />
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom" timestamp="1648083193616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193616" />
+    <state width="1877" height="290" key="GridCell.Tab.0.center" timestamp="1648083193615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193615" />
+    <state width="1877" height="290" key="GridCell.Tab.0.left" timestamp="1648083193612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193612" />
+    <state width="1877" height="290" key="GridCell.Tab.0.right" timestamp="1648083193616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193616" />
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom" timestamp="1648083193617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193617" />
+    <state width="1877" height="290" key="GridCell.Tab.1.center" timestamp="1648083193616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193616" />
+    <state width="1877" height="290" key="GridCell.Tab.1.left" timestamp="1648083193616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193616" />
+    <state width="1877" height="290" key="GridCell.Tab.1.right" timestamp="1648083193616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193616" />
+    <state width="1877" height="290" key="GridCell.Tab.2.bottom" timestamp="1648083193618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193618" />
+    <state width="1877" height="290" key="GridCell.Tab.2.center" timestamp="1648083193617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193617" />
+    <state width="1877" height="290" key="GridCell.Tab.2.left" timestamp="1648083193617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193617" />
+    <state width="1877" height="290" key="GridCell.Tab.2.right" timestamp="1648083193618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648083193618" />
+    <state width="1877" height="290" key="GridCell.Tab.4.bottom" timestamp="1648044814144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648044814144" />
+    <state width="1877" height="290" key="GridCell.Tab.4.center" timestamp="1648044814143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648044814143" />
+    <state width="1877" height="290" key="GridCell.Tab.4.left" timestamp="1648044814143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648044814143" />
+    <state width="1877" height="290" key="GridCell.Tab.4.right" timestamp="1648044814143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648044814143" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1648202875466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648202875466" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+### Electricity ###
+JSON
+{
+    "country": "Test",
+    "percentage": 99
+}
+XML
+<electricityConsumption>
+	<electricityConsumptionPerCountry>
+		<country>Test</country>
+		<percentage>100</percentage>
+	</electricityConsumptionPerCountry>
+</electricityConsumption>
+
+### Happiness ###
+JSON
+{
+    "rank": 0,
+    "country": "Test",
+    "score": 0
+}
+XML
+<HappinessReport>
+    <HappinessReportPerCountry>
+        <rank>0</rank>
+        <country>Test</country>
+        <score>0</score>
+    </HappinessReportPerCountry>
+</HappinessReport>
+
+### Internet ###
+JSON
+{
+    "country": "Test",
+    "internet_users": 1,
+    "population": 1,
+    "percentage": 100
+}
+XML
+<InternetUsers>
+	<InternetUsersPerCountry>
+        	<country>Test</country>
+        	<internet_users>1</internet_users>
+        	<population>1</population>
+        	<percentage>100</percentage>
+    	</InternetUsersPerCountry>
+</InternetUsers>

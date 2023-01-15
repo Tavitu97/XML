@@ -1,0 +1,26 @@
+{
+  "name": "dataprocessing",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "errorhandler": "^1.5.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "libxmljs2": "^0.29.0",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "jsonschema": "^1.4.0",
+    "object-to-xml": "^2.0.0"
+  }
+}
